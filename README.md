@@ -1,3 +1,20 @@
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://go.dev" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  </a> 
+  <a href="https://cplusplus.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
+  </a> 
+</p>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpenserCai&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpenserCai&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
