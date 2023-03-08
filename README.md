@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=SpenserCai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://go.dev" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="50" height="50" />
@@ -23,6 +21,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/>
   </a>
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SpenserCai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Languages and Tools:</h3>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=SpenserCai&show_icons=true&theme=tokyonight&line_height=40" />
