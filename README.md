@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Summerkirakira</h1>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://go.dev" target="_blank" rel="noreferrer"> 
@@ -23,12 +24,12 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SpenserCai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=SpenserCai&show_icons=true&theme=tokyonight&line_height=40" />
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SpenserCai&theme=tokyonight&langs_count=5" />
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SpenserCai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **SpenserCai/SpenserCai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
