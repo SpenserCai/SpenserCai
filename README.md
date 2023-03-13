@@ -25,8 +25,8 @@
 </p>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=SpenserCai&show_icons=true&theme=tokyonight&line_height=40" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SpenserCai&theme=tokyonight&langs_count=5" />
+  <img src = "https://github-readme-stats-ruby-one.vercel.app/api?username=SpenserCai&show_icons=true&theme=tokyonight&line_height=40" />
+  <img src = "https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=SpenserCai&theme=tokyonight&langs_count=5" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SpenserCai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
