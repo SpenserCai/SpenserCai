@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm SpenserCai</h1>
-<div align="center">
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+
+<p align="center">
   <a href="https://go.dev" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="50" height="50" />
   </a> 
@@ -30,7 +29,7 @@
   <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SpenserCai&theme=tokyonight&langs_count=5" />
 </p>
 
-
+<div align="center">
 [![trophy](https://github-profile-trophy.vercel.app/?username=SpenserCai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 <!--
