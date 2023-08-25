@@ -24,11 +24,31 @@
   </a>
 </p>
 
+
 <p align = "center">
   <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SpenserCai&show_icons=true&theme=tokyonight&line_height=40" />
   <img src = "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SpenserCai&theme=tokyonight&langs_count=5" />
 </p>
 
+<div align="center">
+  
+#### AIGC
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=tokyonight&username=SpenserCai&repo=sd-webui-deoldify)](https://github.com/SpenserCai/sd-webui-deoldify)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=tokyonight&username=SpenserCai&repo=sd-webui-go)](https://github.com/SpenserCai/sd-webui-go)
+</br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=tokyonight&username=SpenserCai&repo=sd-webui-discord)](https://github.com/SpenserCai/sd-webui-discord)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=tokyonight&username=SpenserCai&repo=sd-webui-discord-ex)](https://github.com/SpenserCai/sd-webui-discord-ex)
+
+#### Cybersecurity
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=tokyonight&username=SpenserCai&repo=GoWxDump)](https://github.com/SpenserCai/GoWxDump)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?theme=tokyonight&username=SpenserCai&repo=DRat)](https://github.com/SpenserCai/DRat)
+
+
+
+
+
+
+</div>
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SpenserCai&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
